@@ -1,4 +1,3 @@
-Python implementation==CPython
 Python version==3.9.7
 IPython version==7.28.0
 numpy==1.21.2
