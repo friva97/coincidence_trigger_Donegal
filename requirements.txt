@@ -1,0 +1,10 @@
+Python implementation==CPython
+Python version==3.9.7
+IPython version==7.28.0
+numpy==1.21.2
+matplotlib==3.5.0
+obspy==1.2.2
+ipywidgets==7.6.5
+
+ 
+
